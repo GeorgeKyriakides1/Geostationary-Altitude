@@ -1,11 +1,3 @@
-/*------------------------------------------------------
-Name: George Kyriakides
-Student number: 6796242
-Email address: gk920@uowmail.edu.au
-Subject Code: CSIT111
-Assignment number: 1
--------------------------------------------------------*/
-
 // GeoAltitude.java
 // Used to calculate the geostationary altitude for any planet in our solar system which has one class that contains only one method main().
 
